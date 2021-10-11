@@ -20,10 +20,11 @@ alert(sentence)
 
 var empty = [""]
 for (let index = 0; index < 10; index++) {
+    // empty = empty + 1
     empty.push(1)
 }
 console.log (empty)
-// REVISAR
+// REVISAR (creo que está mal)
 
 
 
