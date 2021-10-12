@@ -24,7 +24,7 @@ for (let index = 0; index < 10; index++) {
     empty.push(1)
 }
 console.log (empty)
-// REVISAR (creo que está mal)
+
 
 
 

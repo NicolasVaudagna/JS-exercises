@@ -22,4 +22,3 @@ console.log (movie1)
 // var degree1 = degree.substring(1)
 // var degree2 = degree.substring(2)
 // console.log (degree1.toUpperCase(1) + degree2.toUpperCase(1))
-// No me sale
